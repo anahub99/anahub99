@@ -1,7 +1,17 @@
-### Hi there 👋
+### 👋 Hi, I´m Óscar!
 
 <!--
 **anahub99/anahub99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥 Some of my interest are...
+
+- Mobile development
+- Web development
+- Cloud systems
+- Full stack development
+
+## 📫 How to reach me:
+
+<a href="mailto:anadonoscar@gmail.com"> <img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 Here are some ideas to get you started:
 
