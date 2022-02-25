@@ -1,5 +1,6 @@
 ### 👋 Hi, I´m Óscar!
 
+I am a computer engineering student specialized in information systems. I love learning new useful technologies, especially related to cloud systems and IA.
 
 ## 🏖 Some of my interest are...
 
